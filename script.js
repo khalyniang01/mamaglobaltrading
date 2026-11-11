@@ -71,7 +71,7 @@ const productsData = [
         title: "Gloss Fruité Shine High",
         category: "beaute",
         categoryName: "Lèvres & Beauté",
-        price: 500,
+        price: null,
         priceOnDemand: true,
         image: "assets/images/gloss-collection.jpeg",
         description: "Brillant à lèvres scintillant effet miroir non collant, formule enrichie en huiles nourrissantes et vitamine E aux délicieux parfums fruités. Tarif sur devis ou dégressif selon quantité (discuter le prix)."
